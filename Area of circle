@@ -1,0 +1,6 @@
+def area_circle():
+    radius=float(input("Enter a given radius: "))
+    pi=3.142
+    area=float(pi*radius*radius)
+    print("Area: ",area)
+area_circle()
