@@ -1,0 +1,6 @@
+Import sqlite3
+Connect to SQL Database using connection and cursor
+Create employees table and set id as the primary key
+Insert row values in your employees table
+Display the data in the employees table
+Run a query to print the employees having a salary of more than 50000
